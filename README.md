@@ -96,7 +96,7 @@ LangChain-Agent/
 Clone the repository:
 
 ```bash
-git clone <[YOUR-GITHUB-REPOSITORY-URL](https://github.com/Ravinuthala-Venkata-Siva-Prasad/LangChain-Agent)>
+git clone [<https://github.com/Ravinuthala-Venkata-Siva-Prasad/LangChain-Agent>]
 ```
 
 Navigate to the project directory:
